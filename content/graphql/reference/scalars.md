@@ -2,7 +2,7 @@
 title: Scalars
 redirect_from:
   - /v4/scalar
-versions:
+versions:9.0
   free-pro-team: '*'
   enterprise-server: '*'
 ---
